@@ -30,8 +30,8 @@ To search **one process by path**:
 
 ```powershell
 $type = 2
-$names = 'C:\Path\To\The\process.exe'
-$paths = '','','','' #LEAVE BLANK
+$names = '' #LEAVE BLANK
+$paths = 'C:\Path\To\The\process.exe'
 ```
 
 To search **various processes by path**:
