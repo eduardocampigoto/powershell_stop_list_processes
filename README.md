@@ -1,4 +1,4 @@
-# powershell_stop_list_processes
+# powershell_stop_processes_list
 ### Script created to stop automatically one or more process in windows
 
 This script was created for attend a need to stop a bunch of processes that have the same name, but are stored at different paths.*
